@@ -1,0 +1,22 @@
+D:\Паша\payroll application\payroll application\bin\Debug\payroll application.exe.config
+D:\Паша\payroll application\payroll application\bin\Debug\payroll application.exe
+D:\Паша\payroll application\payroll application\bin\Debug\payroll application.pdb
+D:\Паша\payroll application\payroll application\obj\Debug\payroll application.csproj.AssemblyReference.cache
+D:\Паша\payroll application\payroll application\obj\Debug\windows\autWindow.g.cs
+D:\Паша\payroll application\payroll application\obj\Debug\App.g.cs
+D:\Паша\payroll application\payroll application\obj\Debug\payroll application_MarkupCompile.cache
+D:\Паша\payroll application\payroll application\obj\Debug\payroll application_MarkupCompile.lref
+D:\Паша\payroll application\payroll application\obj\Debug\windows\autWindow.baml
+D:\Паша\payroll application\payroll application\obj\Debug\payroll application.g.resources
+D:\Паша\payroll application\payroll application\obj\Debug\payroll_application.Properties.Resources.resources
+D:\Паша\payroll application\payroll application\obj\Debug\payroll application.csproj.GenerateResource.cache
+D:\Паша\payroll application\payroll application\obj\Debug\payroll application.csproj.CoreCompileInputs.cache
+D:\Паша\payroll application\payroll application\obj\Debug\payroll application.exe
+D:\Паша\payroll application\payroll application\obj\Debug\payroll application.pdb
+D:\Паша\payroll application\payroll application\bin\Debug\MaterialDesignColors.dll
+D:\Паша\payroll application\payroll application\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Паша\payroll application\payroll application\bin\Debug\MaterialDesignColors.pdb
+D:\Паша\payroll application\payroll application\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Паша\payroll application\payroll application\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Паша\payroll application\payroll application\obj\Debug\App.baml
+D:\Паша\payroll application\payroll application\obj\Debug\payroll application.csproj.CopyComplete
